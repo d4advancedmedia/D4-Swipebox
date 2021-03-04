@@ -1,11 +1,11 @@
 <?php
 /*
-	Plugin Name: D4 Swipebox
+	Plugin Name: D4 SwipeBox
 	Plugin URI: http://brutaldesign.github.io/swipebox/#basic
 	GitHub Theme URI: http://brutaldesign.github.io/swipebox/#basic
 	GitHub Branch: master
 	Description: Simple Swipebox Plugin
-	Version: 2019.01.09
+	Version: 2020.12.29
 	Author: D4 Adv. Media (Plugin) Brutal Design (Original Code)
 	License: GPL2
 */
